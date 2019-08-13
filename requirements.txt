@@ -1,2 +1,0 @@
-gunicorn	#http server for production environment
-flask
